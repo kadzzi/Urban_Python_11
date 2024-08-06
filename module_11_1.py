@@ -22,7 +22,7 @@ c = np.array([
 ])
 
 print(f'View of the transposed array a:\n{a.T}\n')
-print(f'Array b rashaped to (2, 6):\n{b.reshape(2, 6)}\n')
+print(f'Array b reshaped to (2, 6):\n{b.reshape(2, 6)}\n')
 
 print(f'Dot product of a * b:\n{a @ b}\n')
 print(f'Dot product of b * a:\n{b.dot(a)}\n')
