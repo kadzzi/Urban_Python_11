@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e1973d5-fb3c-48b9-af01-9d239e107c3a" name="Changes" comment="edited module_11_1.py grammar">
-      <change afterPath="$PROJECT_DIR$/module_11_3.py" afterDir="false" />
+    <list default="true" id="3e1973d5-fb3c-48b9-af01-9d239e107c3a" name="Changes" comment="added module_11_3.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.module_11_1.executor": "Run",
     "Python.module_11_3.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.test_introsp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -93,13 +94,22 @@
       <option name="project" value="LOCAL" />
       <updated>1722904446622</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added module_11_3.py">
+      <option name="closed" value="true" />
+      <created>1723145089575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723145089575</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added module_11_1.py" />
     <MESSAGE value="edited module_11_1.py" />
     <MESSAGE value="edited module_11_1.py grammar" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited module_11_1.py grammar" />
+    <MESSAGE value="added module_11_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added module_11_3.py" />
   </component>
 </project>
